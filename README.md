@@ -24,6 +24,7 @@ Utilizei estas considerações para me guiar em pontos que achei vagos ou que n�
 - Haverá somente um endereço.
 - Não há restrição no quantidade ou formato de telas.
 - Não especifica como deve ser a validação do CPF (fiz no banco de dados).
+- SQL se encontra na pasta `BANCO DE DADOS`.
 
 ## Setup
 
